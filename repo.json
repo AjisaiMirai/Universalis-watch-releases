@@ -20,7 +20,7 @@
         "IconUrl": "",
         "LastUpdated": "0",
         "DownloadCount": 0,
-        "IsTestingExclusive": "true",
+        "IsTestingExclusive": false,
         "DownloadLinkInstall":"https://github.com/AjisaiMirai/Universalis-watch-releases/releases/download/0.0.1/UniversalisWatch.zip",
         "DownloadLinkTesting":"https://github.com/AjisaiMirai/Universalis-watch-releases/releases/download/0.0.1/UniversalisWatch.zip",
         "DownloadLinkUpdate":"https://github.com/AjisaiMirai/Universalis-watch-releases/releases/download/0.0.1/UniversalisWatch.zip"
