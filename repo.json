@@ -3,7 +3,7 @@
         "Author":"Ajisai Mirai",
         "Name":"Universalis Watch",
         "InternalName":"UniversalisWatch",
-        "AssemblyVersion":"0.0.1",
+        "AssemblyVersion":"0.0.2",
         "RepoUrl":"https://github.com/AjisaiMirai/UniversalisWatch",
         "Description":"Periodically scan Universalis for watched items and notify you for price drops or raises.",
         "ApplicableVersion":"any",
