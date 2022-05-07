@@ -16,11 +16,11 @@
         ],
         "DalamudApiLevel":6,
         "Punchline":"Never miss market opportunities again.",
-        "IsHide":false,
+        "IsHide":"false",
         "IconUrl": "",
         "LastUpdated": "0",
         "DownloadCount": 0,
-        "IsTestingExclusive":true,
+        "IsTestingExclusive": "true",
         "DownloadLinkInstall":"https://github.com/AjisaiMirai/Universalis-watch-releases/releases/download/0.0.1/UniversalisWatch.zip",
         "DownloadLinkTesting":"https://github.com/AjisaiMirai/Universalis-watch-releases/releases/download/0.0.1/UniversalisWatch.zip",
         "DownloadLinkUpdate":"https://github.com/AjisaiMirai/Universalis-watch-releases/releases/download/0.0.1/UniversalisWatch.zip"
