@@ -1,4 +1,5 @@
- {
+ [
+  {
         "Author":"Ajisai Mirai",
         "Name":"Universalis Watch",
         "InternalName":"UniversalisWatch",
@@ -24,3 +25,4 @@
         "DownloadLinkTesting":"https://github.com/AjisaiMirai/Universalis-watch-releases/releases/download/0.0.1/UniversalisWatch.zip",
         "DownloadLinkUpdate":"https://github.com/AjisaiMirai/Universalis-watch-releases/releases/download/0.0.1/UniversalisWatch.zip"
     } 
+]
